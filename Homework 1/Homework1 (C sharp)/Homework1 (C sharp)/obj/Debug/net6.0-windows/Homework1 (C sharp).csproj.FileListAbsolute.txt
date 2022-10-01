@@ -1,0 +1,17 @@
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\bin\Debug\net6.0-windows\Homework1 (C sharp).exe
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\bin\Debug\net6.0-windows\Homework1 (C sharp).deps.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\bin\Debug\net6.0-windows\Homework1 (C sharp).runtimeconfig.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\bin\Debug\net6.0-windows\Homework1 (C sharp).dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\bin\Debug\net6.0-windows\Homework1 (C sharp).pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).csproj.AssemblyReference.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1__C_sharp_.Form1.resources
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).csproj.GenerateResource.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).AssemblyInfoInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).AssemblyInfo.cs
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).csproj.CoreCompileInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\refint\Homework1 (C sharp).dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\Homework1 (C sharp).genruntimeconfig.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (C sharp)\Homework1 (C sharp)\obj\Debug\net6.0-windows\ref\Homework1 (C sharp).dll

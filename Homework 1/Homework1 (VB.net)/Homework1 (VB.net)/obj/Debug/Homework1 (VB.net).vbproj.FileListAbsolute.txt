@@ -1,0 +1,11 @@
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\bin\Debug\Homework1 (VB.net).dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\bin\Debug\Homework1 (VB.net).pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\bin\Debug\Homework1 (VB.net).xml
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1 (VB.net).vbproj.AssemblyReference.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1__VB.net_.Resources.resources
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1__VB.net_.UserControl1.resources
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1 (VB.net).vbproj.GenerateResource.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1 (VB.net).vbproj.CoreCompileInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1 (VB.net).dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1 (VB.net).xml
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 1\Homework1 (VB.net)\Homework1 (VB.net)\obj\Debug\Homework1 (VB.net).pdb
