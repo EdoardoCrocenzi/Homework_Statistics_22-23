@@ -1,0 +1,17 @@
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\bin\Debug\net6.0-windows\Univariante distribution.exe
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\bin\Debug\net6.0-windows\Univariante distribution.deps.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\bin\Debug\net6.0-windows\Univariante distribution.runtimeconfig.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\bin\Debug\net6.0-windows\Univariante distribution.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\bin\Debug\net6.0-windows\Univariante distribution.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.csproj.AssemblyReference.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante_distribution.Form1.resources
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.csproj.GenerateResource.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.AssemblyInfoInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.AssemblyInfo.cs
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.csproj.CoreCompileInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\refint\Univariante distribution.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\Univariante distribution.genruntimeconfig.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Univariante distribution\Univariante distribution\obj\Debug\net6.0-windows\ref\Univariante distribution.dll
