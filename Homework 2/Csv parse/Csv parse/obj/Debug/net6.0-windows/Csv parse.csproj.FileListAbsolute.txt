@@ -1,0 +1,34 @@
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.exe
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.deps.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.runtimeconfig.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.csproj.AssemblyReference.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv_parse.Form1.resources
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.csproj.GenerateResource.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.AssemblyInfoInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.AssemblyInfo.cs
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.csproj.CoreCompileInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\refint\Csv parse.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.genruntimeconfig.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Csv parse\Csv parse\obj\Debug\net6.0-windows\ref\Csv parse.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.exe
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.deps.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.runtimeconfig.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\bin\Debug\net6.0-windows\Csv parse.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.csproj.AssemblyReference.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv_parse.Form1.resources
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.csproj.GenerateResource.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.AssemblyInfoInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.AssemblyInfo.cs
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.csproj.CoreCompileInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\refint\Csv parse.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\Csv parse.genruntimeconfig.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 2\Csv parse\Csv parse\obj\Debug\net6.0-windows\ref\Csv parse.dll
