@@ -1,0 +1,17 @@
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\bin\Debug\net6.0-windows\Homework 3.exe
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\bin\Debug\net6.0-windows\Homework 3.deps.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\bin\Debug\net6.0-windows\Homework 3.runtimeconfig.json
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\bin\Debug\net6.0-windows\Homework 3.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\bin\Debug\net6.0-windows\Homework 3.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.csproj.AssemblyReference.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework_3.Form1.resources
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.csproj.GenerateResource.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.AssemblyInfoInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.AssemblyInfo.cs
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.csproj.CoreCompileInputs.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\refint\Homework 3.dll
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.pdb
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\Homework 3.genruntimeconfig.cache
+C:\Users\Edoar\Desktop\Università\MAGISTRALE\Primo Anno\Primo Semestre\Statistics\Homework 3\Homework 3\obj\Debug\net6.0-windows\ref\Homework 3.dll
