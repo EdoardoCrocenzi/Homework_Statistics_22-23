@@ -1,0 +1,17 @@
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.exe
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.deps.json
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.runtimeconfig.json
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.dll
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\bin\Debug\net6.0-windows\Homework 4.pdb
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.AssemblyReference.cache
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework_4.Form1.resources
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.GenerateResource.cache
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfoInputs.cache
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.AssemblyInfo.cs
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.CoreCompileInputs.cache
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.dll
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\refint\Homework 4.dll
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.pdb
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.genruntimeconfig.cache
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\ref\Homework 4.dll
