@@ -46,8 +46,7 @@ namespace Homework_4
                     if (uniform == 0)
                     {
                         success++;
-                        double abs_freq = success * TrialsCount / (j + 1);
-                        this.richTextBox1.AppendText("Success: " + success.ToString() + " Unsuccess: " + unsuccess.ToString() + " Absolute Frequency: " + abs_freq.ToString() + "\n");
+                        this.richTextBox1.AppendText("Success: " + success.ToString() + " Unsuccess: " + unsuccess.ToString() + "\n");
                         this.richTextBox1.ScrollToCaret();
                     }
                     else
