@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VA8oGWA5E3CjNBfeI6DmwhYvto0/gpnPQAo2zwU96zR2CSfQjGR19e98f40ZYfG3ienVkRTb/V40o4idgB4AMg==",
+  "dgSpecHash": "tIUMEPtV+U0GN5Z6uIXEHcxiC4Spxhafb38aFoX9ZdVbe3G5ZVGeiSfTm5GTWuLtVvfKRXRYU20FUzOTN7Kbng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Edoar\\OneDrive - uniroma1.it\\Università\\Primo Anno\\Primo Semestre\\Statistics\\Homework 4\\Homework 4\\Homework 4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Edoar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Edoar\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Edoar\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -15,3 +15,5 @@ C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Stat
 C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.pdb
 C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.genruntimeconfig.cache
 C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\ref\Homework 4.dll
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\Edoar\OneDrive - uniroma1.it\Università\Primo Anno\Primo Semestre\Statistics\Homework 4\Homework 4\obj\Debug\net6.0-windows\Homework 4.csproj.CopyComplete
