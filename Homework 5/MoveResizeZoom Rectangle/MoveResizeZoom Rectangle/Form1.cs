@@ -24,8 +24,6 @@ namespace MoveResizeZoom_Rectangle
         bool drag = false;
         bool resizing = false;
 
-        int zoom = 0;
-
         private void button1_Click(object sender, EventArgs e)
         {
             b = new Bitmap(pictureBox1.Width, pictureBox1.Height);
@@ -33,6 +31,7 @@ namespace MoveResizeZoom_Rectangle
 
             r = new Rectangle(20, 20, 500, 300);
 
+            g.Clear(Color.White);
             g.DrawRectangle(Pens.Red, r);
             pictureBox1.Image = b;
         }
@@ -107,6 +106,20 @@ namespace MoveResizeZoom_Rectangle
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            r.Width = (int)((int) r.Width / 0.9);
+            r.Height = (int)((int)r.Height / 0.9);
+            redraw(r, g);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            r.Width = (int)((int)r.Width * 0.9);
+            r.Height = (int)((int)r.Height * 0.9);
+            redraw(r, g);
         }
     }
 }
