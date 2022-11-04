@@ -18,7 +18,7 @@ namespace Homework_3
             int index = 4;
             this.richTextBox1.AppendText("Lets calculate the univariate distribution of the packets sent: \n");
             this.richTextBox1.ScrollToCaret();
-            using (TextFieldParser parser = new TextFieldParser("C:/Users/Edoar/Desktop/Universit‡/MAGISTRALE/Primo Anno/Primo Semestre/Statistics/Homework 3/wireshark_dataset.csv"))
+            using (TextFieldParser parser = new TextFieldParser(@"../../../../wireshark_dataset.csv"))
             {
                 parser.TextFieldType = FieldType.Delimited;
                 parser.SetDelimiters(",");
@@ -50,7 +50,7 @@ namespace Homework_3
             int index = 5;
             this.richTextBox1.AppendText("Lets calculate the univariate distribution of the bytes sent A: \n");
             this.richTextBox1.ScrollToCaret();
-            using (TextFieldParser parser = new TextFieldParser("C:/Users/Edoar/Desktop/Universit‡/MAGISTRALE/Primo Anno/Primo Semestre/Statistics/Homework 3/wireshark_dataset.csv"))
+            using (TextFieldParser parser = new TextFieldParser("C:/Users/Edoar/Desktop/Universit√†/MAGISTRALE/Primo Anno/Primo Semestre/Statistics/Homework 3/wireshark_dataset.csv"))
             {
                 parser.TextFieldType = FieldType.Delimited;
                 parser.SetDelimiters(",");
