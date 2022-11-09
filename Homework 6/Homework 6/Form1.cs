@@ -1,4 +1,5 @@
 using Microsoft.VisualBasic.FileIO;
+using System.Diagnostics.Metrics;
 using System.Globalization;
 using System.Runtime.Intrinsics.X86;
 
@@ -46,11 +47,13 @@ namespace Homework_6
             Rectangle VirtualWindow2 = new Rectangle(20, 20, bmp2.Width - 40, bmp2.Height - 40);
             g2.DrawRectangle(p, VirtualWindow2);
 
-            List<double> Weight = new List<double>();
             List<double> Avg = new List<double>();
             List<double> Variance = new List<double>();
+            List<double> Population = new List<double>();
             for (int y = 0; y < Trajectories; y++)
             {
+                Population = new List<double>();
+                List<double> Weight = new List<double>();
                 using (TextFieldParser parser = new TextFieldParser(@"../../../../weight-height.csv"))
                 {
                     parser.TextFieldType = FieldType.Delimited;
@@ -58,53 +61,126 @@ namespace Homework_6
                     parser.ReadFields();
                     while (!parser.EndOfData)
                     {
+                        string[] fields = parser.ReadFields();
+                        double weight = double.Parse(fields[2], CultureInfo.InvariantCulture);
+                        Population.Add(weight);
                         double x = r.NextDouble();
                         if (x <= 0.5)
                         {
-                            string[] fields = parser.ReadFields();
-                            double weight = double.Parse(fields[2], CultureInfo.InvariantCulture);
                             Weight.Add(weight);
-                        }
-                        else
-                        {
-                            string[] fields = parser.ReadFields();
+                            
                         }
                     }
                 }
-                double avg = Weight.Average();
+                double avg = Math.Round(Weight.Average(), 2);
                 double variance = 0;
-                for (int x = 0; x < TrialsCount; x++)
-                {
-                    variance += Math.Pow(Weight[x] - avg, 2);
-                }
+                variance += Math.Pow(Weight[y] - avg, 2);
                 Avg.Add(avg);
-                Variance.Add(variance/TrialsCount);
+                Variance.Add(Math.Round((variance / TrialsCount), 2));
             }
             double maxAVG = Avg.Max();
             double maxVARIANCE = Variance.Max();
+            
 
             double minAVG = Avg.Min();
             double minVARIANCE = Variance.Min();
 
+            double deltaAVG = maxAVG - minAVG;
+            double deltaVARIANCE = maxVARIANCE - minVARIANCE;
+            double intAVG = deltaAVG / 10;
+            double intVARIANCE = deltaVARIANCE / 10;
 
-            List<Point> Draw_Avg = new List<Point>();
-            List<Point> Draw_Var = new List<Point>();
-            for (int z = 0; z < Trajectories; z++)
+            Dictionary<double, int> intervalsAVG = new Dictionary<double, int>();
+            Dictionary<double, int> intervalsVARIANCE = new Dictionary<double, int>();
+
+            double barabozzo = minAVG;
+            double barabozzo2 = minVARIANCE;
+            for (int x = 0; x < 10; x++)
             {
-                int xAvg = FromXRealToXVirtual(z, minX, maxX, VirtualWindow.Left, VirtualWindow.Width);
-                int yAvg = FromYRealToYVirtual(Avg[z], minAVG, maxAVG, VirtualWindow.Top, VirtualWindow.Height);
+                intervalsAVG[barabozzo] = 0;
+                intervalsVARIANCE[barabozzo2] = 0;
 
-                Draw_Avg.Add(new Point(xAvg, yAvg));
-
-                int xVar = FromXRealToXVirtual(z, minX, maxX, VirtualWindow2.Left, VirtualWindow2.Width);
-                int yVar = FromYRealToYVirtual(Variance[z], minVARIANCE, maxVARIANCE, VirtualWindow2.Top, VirtualWindow2.Height);
-
-                Draw_Var.Add(new Point(xVar, yVar));
+                barabozzo += intAVG;
+                barabozzo2 += intVARIANCE;
             }
-            g.DrawLines(p2, Draw_Avg.ToArray());
-            g2.DrawLines(p3, Draw_Var.ToArray());
+
+            foreach (double value in Avg)
+            {
+                bool interval = false;
+                foreach (KeyValuePair<double, int> pair in intervalsAVG)
+                {
+                    double v = Math.Abs(value - pair.Key);
+                    if (v <= intAVG)
+                    {
+                        intervalsAVG[pair.Key] += 5;
+                        interval = true;
+                        break;
+                    }
+                }
+            }
+
+            foreach (double value in Variance)
+            {
+                bool interval = false;
+                foreach (KeyValuePair<double, int> pair in intervalsVARIANCE)
+                {
+                    double v = Math.Abs(value - pair.Key);
+                    if (v <= intVARIANCE)
+                    {
+                        intervalsVARIANCE[pair.Key] += 5;
+                        interval = true;
+                        break;
+                    }
+                }
+
+            }
+
+            int z = (int)VirtualWindow.Height / 10;
+            int intervallo = (int)VirtualWindow.Height / 10;
+            foreach (KeyValuePair<double, int> histogram in intervalsAVG)
+            {
+                int Y = histogram.Value;
+                if (Y > VirtualWindow.Width)
+                {
+                    Y = VirtualWindow.Width;
+                }
+                int yAvg = FromYRealToYVirtual(z, 0, 10 * intervallo, VirtualWindow.Top, VirtualWindow.Height);
+                z += intervallo;
+                Rectangle istogramma = new Rectangle(VirtualWindow.Left, yAvg, Y, intervallo);
+                g.FillRectangle(Brushes.Red, istogramma);
+                g.DrawRectangle(p, istogramma);
+
+            }
+            int q = (int)VirtualWindow2.Height / 10;
+            int interv = (int)VirtualWindow2.Height / 10;
+
+            foreach (KeyValuePair<double, int> histogram in intervalsVARIANCE)
+            {
+                int Y = histogram.Value;
+                if (Y > VirtualWindow2.Width)
+                {
+                    Y = VirtualWindow2.Width;
+                }
+                int yVariance = FromYRealToYVirtual(q, 0, 10 * interv, VirtualWindow2.Top, VirtualWindow2.Height);
+                q += interv;
+                Rectangle istogramma = new Rectangle(VirtualWindow2.Left, yVariance, Y, interv);
+                g2.FillRectangle(Brushes.Red, istogramma);
+                g2.DrawRectangle(p, istogramma);
+
+            }
+
             this.pictureBox1.Image = bmp;
             this.pictureBox2.Image = bmp2;
+            this.richTextBox3.AppendText("SAMPLE_AVG, POPULATION_AVG: " + Avg.Average().ToString() + ", " + Population.Average().ToString() +"\n");
+            this.richTextBox3.ScrollToCaret();
+            List<double> Pop_Var = new List<double>();
+            for (int a = 0; a < Population.Count(); a++)
+            {
+                double variance = Math.Pow(Population[a] - Population.Average(), 2);
+                Pop_Var.Add((variance / Population.Count()));
+            }
+            this.richTextBox3.AppendText("SAMPLE_VARIANCE, POPULATION_VARIANCE: " + Variance.Average().ToString() + ", " + Pop_Var.Average().ToString() + "\n");
+            this.richTextBox3.ScrollToCaret();
         }
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
