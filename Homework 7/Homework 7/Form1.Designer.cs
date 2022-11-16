@@ -72,9 +72,9 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(1341, 12);
+            this.pictureBox3.Location = new System.Drawing.Point(1177, 12);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(535, 568);
+            this.pictureBox3.Size = new System.Drawing.Size(699, 568);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
             // 
@@ -161,6 +161,7 @@
             this.trackBar1.Size = new System.Drawing.Size(130, 56);
             this.trackBar1.TabIndex = 10;
             this.trackBar1.Value = 100;
+            this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
             // 
             // label3
             // 
@@ -183,11 +184,11 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(905, 662);
+            this.label5.Location = new System.Drawing.Point(888, 662);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(117, 20);
+            this.label5.Size = new System.Drawing.Size(159, 20);
             this.label5.TabIndex = 13;
-            this.label5.Text = "Number of trails";
+            this.label5.Text = "Number of trajectories";
             // 
             // trackBar2
             // 
@@ -198,6 +199,7 @@
             this.trackBar2.Size = new System.Drawing.Size(130, 56);
             this.trackBar2.TabIndex = 14;
             this.trackBar2.Value = 10;
+            this.trackBar2.Scroll += new System.EventHandler(this.trackBar2_Scroll);
             // 
             // label6
             // 
