@@ -15,7 +15,7 @@ namespace Univariante_distribution
         {
             this.richTextBox1.AppendText("Lets calculate the univariate distribution of the students' age: \n");
             this.richTextBox1.ScrollToCaret();
-            using (TextFieldParser parser = new TextFieldParser("C:/Users/Edoar/Desktop/Università/MAGISTRALE/Primo Anno/Primo Semestre/Statistics/Homework 2/Statistics_students_dataset_22_23 - Foglio1.csv"))
+            using (TextFieldParser parser = new TextFieldParser(@"../../../../Statistics_students_dataset_22_23 - Foglio1.csv"))
             {
                 parser.TextFieldType = FieldType.Delimited;
                 parser.SetDelimiters(",");
